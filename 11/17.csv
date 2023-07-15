@@ -1,0 +1,6 @@
+"math/9201207","Stephen Montgomery-Smith","Stephen J. Montgomery-Smith and Michel Talagrand","The Rademacher cotype of operators from $l_\infty^N$",,"Proc. A.M.S. 112 (1991), 187-194",,,"math.FA",,"  We show that for any operator $T:l_\infty^N\to Y$, where $Y$ is a Banach
+space, that its cotype 2 constant, $K_2(T)$, is related to its $(2,1)$-summing
+norm, $\pi_{2,1}(T)$, by $K_2(T) \le c \log\log N \pi_{2,1}(T) $. Thus, we can
+show that there is an operator $T:C(K)\to Y$ that has cotype 2, but is not
+2-summing.
+","[{""version"":""v1"",""created"":""Fri, 17 Nov 1989 15:28:00 GMT""},{""version"":""v2"",""created"":""Sat, 4 Dec 1999 04:37:15 GMT""}]","2008-02-03"

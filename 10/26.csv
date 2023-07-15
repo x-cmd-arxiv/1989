@@ -1,0 +1,24 @@
+"math/9201203",,"Keith Ball (Texas A&M University) and Alain Pajor (Paris VII)","Convex bodies with few faces",,,,"Banach Archive 10/26/89","math.MG math.FA",,"  It is proved that if $u_1,\ldots, u_n$ are vectors in ${\Bbb R}^k, k\le n, 1
+\le p < \infty$ and
+  $$r = ({1\over k} \sum ^n_1 |u_i|^p)^{1\over p}$$
+  then the volume of the symmetric convex body whose boundary functionals are
+$\pm u_1,\ldots, \pm u_n$, is bounded from below as
+  $$|\{ x\in {\Bbb R}^k\colon \ |\langle x,u_i\rangle | \le 1 \ \hbox{for
+every} \ i\}|^{1\over k} \ge {1\over \sqrt{\rho}r}.$$
+  An application to number theory is stated.
+","[{""version"":""v1"",""created"":""Thu, 26 Oct 1989 14:59:00 GMT""}]","2016-09-06"
+"math/9201204",,"Keith Ball","Shadows of convex bodies",,,,"Banach Archive 10/26/89","math.MG math.FA",,"  It is proved that if $C$ is a convex body in ${\Bbb R}^n$ then $C$ has an
+affine image $\widetilde C$ (of non-zero volume) so that if $P$ is any
+1-codimensional orthogonal projection,
+  $$|P\widetilde C| \ge |\widetilde C|^{n-1\over n}.$$
+  It is also shown that there is a pathological body, $K$, all of whose
+orthogonal projections have volume about $\sqrt{n}$ times as large as
+$|K|^{n-1\over n}$.
+","[{""version"":""v1"",""created"":""Thu, 26 Oct 1989 14:59:00 GMT""}]","2016-09-06"
+"math/9201205",,"Keith Ball","Volume ratios and a reverse isoperimetric inequality",,,,"Banach Archive 10/26/89","math.MG math.FA",,"  It is shown that if $C$ is an $n$-dimensional convex body then there is an
+affine image $\widetilde C$ of $C$ for which
+  $${|\partial \widetilde C|\over |\widetilde C|^{n-1\over n}}$$
+  is no larger than the corresponding expression for a regular $n$-dimensional
+``tetrahedron''. It is also shown that among $n$-dimensional subspaces of $L_p$
+(for each $p\in [1,\infty]), \ell^n_p$ has maximal volume ratio.\vskip3in
+","[{""version"":""v1"",""created"":""Thu, 26 Oct 1989 14:59:00 GMT""}]","2008-02-03"
